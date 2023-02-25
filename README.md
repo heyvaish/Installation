@@ -1,2 +1,0 @@
-# Installation
-software Installation scripts
